@@ -12,4 +12,4 @@ Create counter to show how many houses meet criteria selected
 Expand analysis to all 5 boroughs
 Expand analysis to more recent years
 
-![Brooklyn_Housing_App](https://imgur.com/a/RmoW75D)
+![Brooklyn_Housing_App](/Brooklyn_Housing_App.png)

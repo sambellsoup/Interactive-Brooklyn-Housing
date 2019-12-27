@@ -5,11 +5,11 @@ This project involves analyzing housing sales data in Brooklyn from 2003-2017. T
 
 Things to do:
 
-Create widget to scroll through years and have the map repopulate based on year selected
-Create widget to control the range of prices selected on map
-Create counter to show how many houses meet criteria selected
-
-Expand analysis to all 5 boroughs
-Expand analysis to more recent years
+*Create widget to scroll through years and have the map repopulate based on year selected
+*Create widget to control the range of prices selected on map
+*Create counter to show how many houses meet criteria selected
+\n
+*Expand analysis to all 5 boroughs
+*Expand analysis to more recent years
 
 ![Brooklyn_Housing_App](/Brooklyn_Housing_App.png)
